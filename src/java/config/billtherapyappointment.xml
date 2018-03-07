@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="plexus_version1"/>
+  <table-filter match-name="theraphy"/>
+  <table-filter match-name="bill"/>
+  <table-filter match-name="patient"/>
+  <table-filter match-name="doctorinfo"/>
+  <table-filter match-name="therapybill"/>
+  <table-filter match-name="visit"/>
+  <table-filter match-name="departmentname"/>
+</hibernate-reverse-engineering>
